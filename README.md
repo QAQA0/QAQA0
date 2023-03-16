@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20QAQA%20&height=200&fontSize=50&textBg=true)
 
-#Skills
+# Skills
 ###
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 
-#tools
+# Tools
 ###
 
 
