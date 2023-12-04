@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20QAQA%20&height=200&fontSize=50&textBg=true)
 
+### 개인 프로젝트는 QAQA Company organization을 확인해주세요.
+### For personal projects, please check QAQA Company organization.
+ 
 # Skills
 ###
 ![](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
